@@ -1,0 +1,8 @@
+{
+  "name": "Color me NSFW",
+  "description": "Forbidden Sophistication: An editorial adult coloring book and digital studio with high-difficulty line art.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
